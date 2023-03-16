@@ -1,0 +1,40 @@
+{
+	"name": "deep-sleep",
+	"version": "1.0.0",
+	"private": true,
+	"author": "Altanbagana Erdene-Ochir <altanbagana@protonmail.com> (@altanbgn)",
+	"license": "MIT",
+	"keywords": [
+		"nextjs",
+		"starter",
+		"typescript"
+	],
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint",
+		"type-check": "tsc",
+		"format": "prettier --ignore-path .gitignore \"src/**/*.+(ts|js|tsx)\" --write"
+	},
+	"dependencies": {
+		"clsx": "^1.2.1",
+		"moment": "^2.29.4",
+		"next": "^13.2.4",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"tailwindcss": "^3.2.7"
+	},
+	"devDependencies": {
+		"@types/node": "^18.15.3",
+		"@types/react": "18.0.28",
+		"@types/react-dom": "^18.0.11",
+		"@types/react-time-picker": "^4.0.3",
+		"@typescript-eslint/eslint-plugin": "^5.55.0",
+		"@typescript-eslint/parser": "^5.55.0",
+		"autoprefixer": "^10.4.14",
+		"postcss": "^8.4.21",
+		"prettier": "^2.8.4",
+		"typescript": "4.9.5"
+	}
+}
