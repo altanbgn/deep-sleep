@@ -1,4 +1,4 @@
-### Deep Sleep
+# Deep Sleep
 Hobby project to learn Svelte 🙂. Lets you calculate time of
 when should you sleep and when should you wake up. Pretty handy right.
 Especially useful for heavy sleeper like myself hhe.
